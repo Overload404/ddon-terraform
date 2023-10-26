@@ -1,0 +1,6 @@
+**/.terraform/*
+.terraform.lock.hcl
+ddon_key
+ddon_key.pub
+*.tfstate
+*.tfstate.*
